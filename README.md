@@ -23,8 +23,3 @@ Welcome to my 📚 *University Projects!* This repository contains various proje
 - Developed a Point-of-Sale system for restaurant management.
 - Implemented features for order processing and billing.
 
-
-## 🚀 How to Use  
-1. Clone this repository:  
-   ```bash
-   git clone https://github.com/HaseeyaF/university-projects.git

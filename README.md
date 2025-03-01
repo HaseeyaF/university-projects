@@ -6,7 +6,7 @@ Welcome to my 📚 *University Projects!* This repository contains various proje
 
 ## 📌 Projects
 
-### 🥭 Research on Non-Destructive Mango Quality Prediction (Dec 2024 – Present)
+### [🥭 Research on Non-Destructive Mango Quality Prediction (Dec 2024 – Present)](https://github.com/HaseeyaF/university-projects/tree/mango-quality-research)
 - Researching advanced techniques to assess mango quality without damaging the fruit.
 - Exploring the use of machine learning for quality assessment.
 - Contributing to agricultural technology and post-harvest quality control.

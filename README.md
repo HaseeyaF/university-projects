@@ -11,15 +11,15 @@ Welcome to my 📚 *University Projects!* This repository contains various proje
 - Exploring the use of machine learning for quality assessment.
 - Contributing to agricultural technology and post-harvest quality control.
 
-### 🛣️ Automatic Highway Entrance Ticketing System (Apr 2024 – Jan 2025)
+### [🛣️ Automatic Highway Entrance Ticketing System (Apr 2024 – Jan 2025)](https://github.com/HaseeyaF/university-projects/tree/highway-ticketing)
 - Developed an automated toll ticketing system to optimize traffic flow.
 
-### 🛵 Smart Scooter Management for Campus Mobility - ScootRUSL (Feb 2023 – Aug 2024)
+### [🛵 Smart Scooter Management for Campus Mobility - ScootRUSL (Feb 2023 – Aug 2024)](https://github.com/HaseeyaF/university-projects/tree/scooter-management)
 - Developed a smart scooter system to improve campus mobility.
 - Implemented real-time booking and GPS tracking.
 - Designed a user-friendly mobile application.
 
-### 🍽️ Restaurant POS System (Dec 2022 – Mar 2023)
+### [🍽️ Restaurant POS System (Dec 2022 – Mar 2023)](https://github.com/HaseeyaF/university-projects/tree/restaurant-pos)
 - Developed a Point-of-Sale system for restaurant management.
 - Implemented features for order processing and billing.
 
